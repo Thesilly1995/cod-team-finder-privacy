@@ -6,3 +6,5 @@ Live: https://thesilly1995.github.io/cod-team-finder-privacy/
 
 De bron staat in de (privé) app-repository onder `docs/privacy/index.html`; wijzig daar en kopieer
 het bestand hierheen.
+
+Normen voor kindveiligheid (CSAE): https://thesilly1995.github.io/cod-team-finder-privacy/child-safety/
